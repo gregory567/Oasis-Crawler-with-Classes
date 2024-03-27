@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1677917709 source:c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+	"Spielwelt.h"
+	"Charakter.h"
+	"Gegner.h"
+	"Spielverlauf.h"
+	"Spielwelt.cpp"
+	"Charakter.cpp"
+	"Gegner.cpp"
+	"Spielverlauf.cpp"
+
+1677784940 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\oasencrawler.h
+
+1677785932 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\oasencrawler.cpp
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<assert.h>
+	<string.h>
+	"oasencrawler.h"
+
+1677917446 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\spielwelt.h
+
+1677917365 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\charakter.h
+
+1677917309 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\gegner.h
+
+1677917248 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\spielverlauf.h
+
+1677917670 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\spielwelt.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+	"Spielwelt.h"
+
+1677917803 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\charakter.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+	"Charakter.h"
+
+1677917914 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\gegner.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+	"Gegner.h"
+
+1677918084 c:\users\hp\desktop\fh technikum\lv objektorientierte programmierung labor\codeblocks\oasencrawler mit klassen\spielverlauf.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<cassert>
+	<assert.h>
+	<string.h>
+	"Spielverlauf.h"
+
